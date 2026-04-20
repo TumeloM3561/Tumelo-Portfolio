@@ -19,4 +19,4 @@ This project involved designing and configuring a small business network using C
 - Tumelo Gabriel Masilela
 
 ## 📜 License
-This project is for educational purposes.<img width="1272" height="692" alt="Net Des" src="https://github.com/user-attachments/assets/9d85ae9b-412a-47ee-95bd-aedd3200a352" />
+This project is for educational purposes.
