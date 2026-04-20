@@ -34,5 +34,6 @@ Performed network troubleshooting using ping, IP configuration, and connectivity
 ---
 
 ## 📞 Contact
-- Email: your-email
-- GitHub: your-profile
+- Email: 222335726@mycput.ac.za
+- Contact number: 076 955 1593
+- GitHub: https://github.com/TumeloM3561
