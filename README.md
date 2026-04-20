@@ -30,8 +30,11 @@ Performed network troubleshooting using ping, IP configuration, and connectivity
 
 ## 🎥 Mock Interview
 [Watch my video](PASTE_LINK_HERE)
+<video src="TumeloMasilela Mock Interview(1).mp4" width="320" height="240" controls></video>
 
 ---
+
+
 
 ## 📞 Contact
 - Email: 222335726@mycput.ac.za
