@@ -18,9 +18,11 @@ I am passionate about networking, troubleshooting, and working with computer sys
 ---
 
 ## 🎓 Education
-**Cape Peninsula University of Technology (CPUT)**  
+**Cape Peninsula University of Technology**  
 Diploma in ICT – Communication Networks  
 
+**Mkhephuli Senior Secondary School)**  
+Matric
 ---
 
 ## 💼 Work Experience
@@ -35,10 +37,14 @@ Diploma in ICT – Communication Networks
 ## 📄 CV
 You can view my CV below:
 
-- Name: Tumelo  
+- Name: Tumelo  Masilela
+- ## 📞 Contact
+- Email: 222335726@mycput.ac.za
+- Contact number: 076 955 1593
+- GitHub: https://github.com/TumeloM3561
 - Qualification: Diploma in ICT (Communication Networks)  
-- Skills: Networking, Linux, Troubleshooting  
-- Experience: Silulo Ulutho Technologies  
+- Skills: Networking, Linux, Troubleshooting, Network Design  
+- Experience: Silulo Ulutho Technologies & Ulwazi Internet Cafe  
 
 ---
 
@@ -49,53 +55,15 @@ You can view my CV below:
 
 ## 💭 Reflection on Markdown (STAR Method)
 
-**Situation:**  
-I was required to create a digital portfolio using GitHub and Markdown.
-
-**Task:**  
-I needed to learn how to write and format content using Markdown.
-
-**Action:**  
-I practiced using headings, lists, and links to structure my portfolio. I also explored how to organise information clearly.
-
-**Result:**  
-I can now create structured documents using Markdown and present my work in a professional way.
-
----
-
+During this project, I was required to create a digital portfolio using GitHub and Markdown. My task was to learn how to structure and present information using a new formatting language. I took time to practice Markdown by using headings, lists, and links to organise my content in a clear and professional way. As a result, I was able to successfully build a well-structured portfolio, and I now feel confident using Markdown to present technical work.
 ## 💭 Reflection on Mock Interview (STAR Method)
 
-**Situation:**  
-I participated in a mock interview as part of my work readiness training.
-
-**Task:**  
-I had to answer interview questions clearly and professionally.
-
-**Action:**  
-I prepared answers, practiced speaking, and recorded myself answering questions.
-
-**Result:**  
-I improved my confidence, communication skills, and ability to respond to interview questions.
+As part of the work readiness training, I completed a mock interview to prepare for real job opportunities. My task was to answer interview questions clearly and professionally while demonstrating confidence. I prepared by thinking about common interview questions and practicing my responses before recording the video. As a result, I improved my communication skills, became more confident in speaking about my abilities, and gained a better understanding of how to present myself in an interview.
 
 ---
-
 ## 💭 Reflection on GitHub Pages (STAR Method)
 
-**Situation:**  
-I needed to publish my portfolio online using GitHub Pages.
-
-**Task:**  
-I had to learn how to deploy a repository as a website.
-
-**Action:**  
-I configured GitHub Pages in the repository settings and ensured my README displayed correctly.
-
-**Result:**  
-I successfully published my portfolio and can now share my work through a live link.
+In this project, I was required to publish my digital portfolio using GitHub Pages. My task was to learn how to deploy a repository and make it accessible online. I followed the steps to configure GitHub Pages and ensured that my portfolio displayed correctly as a website. As a result, I successfully published my work online and gained practical experience in hosting and sharing projects using GitHub.
 
 ---
 
-## 📞 Contact
-- Email: 222335726@mycput.ac.za
-- Contact number: 076 955 1593
-- GitHub: https://github.com/TumeloM3561
