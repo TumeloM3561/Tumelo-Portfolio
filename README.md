@@ -43,7 +43,7 @@ You can view my CV below:
 ---
 
 ## 🎥 Mock Interview
-[Watch my mock interview here](PASTE YOUR VIDEO LINK HERE)
+[Watch my mock interview here](TumeloMasilelaMockInterview.mp4)
 
 ---
 
