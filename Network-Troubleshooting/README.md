@@ -31,7 +31,7 @@ This project focuses on basic network troubleshooting using Windows commands. Th
 ---
 
 ## 📸 Screenshot
-![IP Configuration](screenshot.png)
+![IP Configuration](Screenshot.png)
 ---
 
 ## 🧠 Reflection
